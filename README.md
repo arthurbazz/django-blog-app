@@ -5,4 +5,4 @@ A Django blog app with CRUD implementation
 This ia a Django blog app with CRUD implementation
 
 ## Credit
-Credit to Zuri Training Team
+Credit to Zuri Training Team on Django CRUD implementation
